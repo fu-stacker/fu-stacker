@@ -5,7 +5,10 @@
 
 <!-- Typing animation with your name and focus -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fuad+Teshome;Aspiring+Full‑Stack+Developer;Learning+🚀+React+%7C+Node+%7C+SQL;7+months+of+consistent+effort;Let's+build+something+great!" alt="Typing SVG" />
+  <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#0A192F" d="M0,64L80,58.7C160,53,320,43,480,48C640,53,800,75,960,80C1120,85,1280,75,1360,69.3L1440,64L1440,80L1360,80C1280,80,1120,80,960,80C800,80,640,80,480,80C320,80,160,80,80,80L0,80Z"/>
+    <rect width="100%" height="80" fill="url(#grad)" />
+  </svg>
 </p>
 
 <!-- Social badges with 3D shadow effect (via style) -->
