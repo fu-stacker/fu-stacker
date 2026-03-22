@@ -5,13 +5,9 @@
 
 <!-- Typing animation with your name and focus -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fuad+Teshome;Aspiring+Full‑Stack+Developer;Learning+%F0%9F%9A%80+React+%7C+Node+%7C+SQL;7+months+of+consistent+effort;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fuad+Teshome;Aspiring+Full‑Stack+Developer;Learning+🚀+React+%7C+Node+%7C+SQL;7+months+of+consistent+effort;Let's+build+something+great!" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Hi%2C%20I'm%20Fuad%20Teshome-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Aspiring%20Full‑Stack%20Developer-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-7%20months%20of%20consistent%20effort-0A66C2?style=for-the-badge" />
-</p>
+
 <!-- Social badges with 3D shadow effect (via style) -->
 <p align="center">
   <a href="https://linkedin.com/in/fuad-teshome-aa5a39392" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" /></a>
