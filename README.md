@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a self‑taught developer on a mission to become a **full‑stack creator**. For the last **7 months**, I’ve been diving deep into web technologies—writing small snippets, understanding concepts, and connecting the dots from frontend to backend.
+I’m a Software Engineering student with a passion for full‑stack development**. For the last **7 months**, I’ve been diving deep into web technologies—writing small snippets, understanding concepts, and connecting the dots from frontend to backend.
 
 - 🌱 **Currently focused on:** React, Node.js, Express, SQL, javaScript  
 - 🎯 **Next milestone:** Build and deploy my first full‑stack project  
