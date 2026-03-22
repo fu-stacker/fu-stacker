@@ -1,89 +1,100 @@
-<!-- Header / Banner Image (optional) -->
+<!-- Banner: gradient + overlay text (optional: replace with your own image) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0A192F/FFFFFF?text=Learning+Full+Stack+•+One+Line+at+a+Time" alt="banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Building%20Bit%20by%20Bit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Aspiring Full‑Stack Developer • Lifelong Learner</h3>
-
+<!-- Typing animation: shows your current focus -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fuad Teshome ;Aspiring+Full‑Stack+Developer;Learning+%F0%9F%9A%80+React+%7C+Node+%7C+SQL;7+months+of+consistent+effort;Let's+build+something+great!" alt="Typing SVG" />
+</p>
+
+<!-- Social badges (with consistent style) -->
+<p align="center">
+  <a href="https://linkedin.com/in/fuad-teshome-aa5a39392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fuaddev5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/fu-stacker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I’m on a self‑directed journey to become a full‑stack developer. For the past **7 months**, I’ve been diving into web development—building small pieces of code, understanding how things work under the hood, and connecting concepts from frontend to backend.
+I’m a self‑taught developer on a mission to become a **full‑stack creator**. For the last **7 months**, I’ve been diving deep into web technologies—writing small snippets, understanding concepts, and connecting the dots from frontend to backend.
 
-- 🌱 **Currently learning:** React, Node.js, Express, SQL, css,html ,javascript  
-- 🎯 **Goal:** Build my first complete full‑stack project this quarter  
-- 📫 **How to reach me:** [your.Fuaddev5@gmail.com]  
-- ⚡ **Fun fact:** I write a daily “code snippet” journal to reinforce what I learn.
+- 🌱 **Currently focused on:** React, Node.js, Express, SQL, javaScript  
+- 🎯 **Next milestone:** Build and deploy my first full‑stack project  
+- 📝 **Daily habit:** I write a “code snippet journal” to reinforce every new concept  
+- 💬 **Ask me about:** JavaScript, REST APIs, or my learning journey  
+- ⚡ **Fun fact:** I treat every bug as a puzzle – the satisfaction of solving it is addictive!
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Toolbox
+
+| **Frontend** | **Backend** | **Database** | **DevOps & Tools** |
+|--------------|-------------|--------------|--------------------|
+| HTML5        | Node.js     | MongoDB      | Git / GitHub       |
+| CSS3         | Express.js  |   SQL        | VS Code            |
+| JavaScript   | REST APIs   | (learning)   | Postman            |
+| React        | –           | –            | Command Line       |
+
+> *I’m still building proficiency – I’ve worked with all of these in small exercises and am now connecting them into real flows.*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sql,git,github,vscode&perline=5" />
 </p>
 
-> *Note: I’m still building proficiency, but I’ve worked with these technologies in small exercises and am actively deepening my understanding.*
+---
+
+### 📚 Learning Resources I Swear By
+
+- [The Odin Project](https://www.theodinproject.com/) – Structured full‑stack curriculum  
+- [freeCodeCamp](https://www.freecodecamp.org/) – Hands‑on JavaScript & algorithms  
+- [MDN Web Docs](https://developer.mozilla.org/) – My go‑to reference  
+- [YouTube](https://youtube.com/) – Traversy Media, Web Dev Simplified, Fireship  
 
 ---
 
-### 📚 Learning Resources I Use
-
-- [The Odin Project](https://www.theodinproject.com/) – Full‑stack curriculum  
-- [freeCodeCamp](https://www.freecodecamp.org/) – JavaScript & Algorithms  
-- [MDN Web Docs](https://developer.mozilla.org/) – Go‑to reference  
-- [YouTube](https://youtube.com/) – Channels like Traversy Media, Web Dev Simplified  
-
----
-
-### 📈 GitHub Stats (Optional)
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fu-stacker&show_icons=true&theme=radical&hide=contribs&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fu-stacker&layout=compact&theme=radical" width="48%" />
 </p>
 
-> *These stats will grow as I add more code. Currently, they reflect my learning exercises.*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" width="60%" />
+</p>
+
+> *Stats will grow as I add more code – currently they reflect my learning exercises.*
 
 ---
 
-### 🛠️ What I’m Working On
+### 🔨 What I’m Working On
 
-- Building a **personal dashboard** with React and a mock API to practice hooks and state management.
-- Writing a **simple REST API** with Node.js + Express, and connecting it to MongoDB.
-- Documenting my daily learning in my [GitHub Gists](https://gist.github.com/yourusername).
+- **React Dashboard:** Building a personal dashboard with hooks and a mock API  
+- **REST API:** A simple API with Node.js + Express, connected to MongoDB  
+- **Learning Log:** Storing daily code snippets in [GitHub Gists](https://gist.github.com/yourusername)  
 
 ---
 
 ### 📫 Let’s Connect!
 
-I’m open to feedback, mentorship, or just a friendly chat about coding. If you’re a junior developer like me, let’s learn together!
+I’m open to feedback, mentorship, or just a friendly chat. If you’re also learning, let’s grow together!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/fuad-teshome-aa5a39392"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fuaddev5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/fu-stacker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Every expert was once a beginner.” – Keep coding, keep growing. ✨</i>
+  <i>“The expert in anything was once a beginner.” – Keep coding, keep curious. ✨</i>
+</p>
+
+<!-- Footer wave (optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </p>
