@@ -1,7 +1,5 @@
 <!-- 3D-style animated banner with gradient wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Building%20Bit%20by%20Bit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Fuad's%20Coding%20Journey&descAlignY=55" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=220&section=header&text=Fuad%20Teshome&fontSize=50&fontColor=ffffff" />
 
 <!-- Typing animation with your name and focus -->
 <p align="center">
