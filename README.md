@@ -56,10 +56,11 @@ I’m a **Software Engineering student** with a passion for full‑stack develop
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fu-stacker&show_icons=true&theme=radical&hide=contribs&count_private=true&bg_color=0A192F&title_color=0A66C2&icon_color=0A66C2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fu-stacker&layout=compact&theme=radical&bg_color=0A192F&title_color=0A66C2" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fu-stacker&show_icons=true&theme=transparent&hide_contribs=true&title_color=0A66C2&icon_color=0A66C2&text_color=CCD6F6&bg_color=0A192F" height="175" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fu-stacker&layout=compact&theme=transparent&title_color=0A66C2&text_color=CCD6F6&bg_color=0A192F" height="175" alt="Top Languages" />
+</div>
 
 > *Stats will grow as I add more code – currently they reflect my learning exercises.*
 
